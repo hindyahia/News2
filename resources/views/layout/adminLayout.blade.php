@@ -442,6 +442,7 @@
 
                             <!--end::Header Nav-->
                         </div>
+
                         <!--end::Header Menu-->
                     </div>
                     <!--end::Header Menu Wrapper-->
@@ -459,6 +460,70 @@
                                 {{--                                <span class="symbol symbol-35 symbol-light-success">--}}
                                 {{--											<span class="symbol-label font-size-h5 font-weight-bold">name</span>--}}
                                 {{--										</span>--}}
+                            </div>
+                            <div class="dropdown">
+                                <!--begin::Toggle-->
+                                <div class="topbar-item" data-toggle="dropdown" data-offset="10px,0px">
+                                    <div class="btn btn-icon btn-clean btn-dropdown btn-lg mr-1">
+                                        @if(app()->getLocale() == 'ar')
+                                            <?php
+                                            $lang = LaravelLocalization::getSupportedLocales()['ar']
+                                            ?>
+                                            <img class="h-20px w-20px rounded-sm"
+                                                 src="{{url('admin_assets/media/svg/flags/008-saudi-arabia.svg')}}" alt="">
+                                        @else
+                                            <?php
+                                            $lang = LaravelLocalization::getSupportedLocales()['en']
+                                            ?>
+                                            <img class="h-20px w-20px rounded-sm"
+                                                 src="{{url('admin_assets/media/svg/flags/012-uk.svg')}}" alt="">
+                                        @endif
+                                    </div>
+                                </div>
+                                <!--end::Toggle-->
+                                <!--begin::Dropdown-->
+                                <div
+                                    class="dropdown-menu p-0 m-0 dropdown-menu-anim-up dropdown-menu-sm dropdown-menu-right">
+                                    <!--begin::Nav-->
+                                    <ul class="navi navi-hover py-4">
+                                        <!--begin::Item-->
+                                        <li class="navi-item active">
+                                            <?php
+                                            $lang = LaravelLocalization::getSupportedLocales()['en']
+                                            ?>
+                                            <a href="{{ LaravelLocalization::getLocalizedURL('en', null, [], true) }}"
+                                               class="navi-link">
+                                            <span class="symbol symbol-20 mr-3"><img
+                                                    src="{{url('admin_assets/media/svg/flags/012-uk.svg')}}"
+                                                    alt=""></span>
+                                                <span class="navi-text">{{ $lang['native'] }}</span>
+                                            </a>
+
+
+                                        </li>
+                                        <!--end::Item-->
+                                        <!--begin::Item-->
+                                        <li class="navi-item">
+                                            <?php
+                                            $lang = LaravelLocalization::getSupportedLocales()['ar']
+                                            ?>
+                                            <a href="{{ LaravelLocalization::getLocalizedURL('ar', null, [], true) }}"
+                                               class="navi-link">
+                                            <span class="symbol symbol-20 mr-3"><img
+                                                    src="{{url('admin_assets/media/svg/flags/008-saudi-arabia.svg')}}"
+                                                    alt=""></span>
+                                                <span class="navi-text">{{ $lang['native'] }}</span>
+                                            </a>
+                                        </li>
+                                        <!--end::Item-->
+                                        <!--begin::Item-->
+
+
+                                        <!--end::Item-->
+                                    </ul>
+                                    <!--end::Nav-->
+                                </div>
+                                <!--end::Dropdown-->
                             </div>
                         </div>
                         <!--end::User-->
@@ -548,6 +613,9 @@
                 {{--						<div class="symbol-label" style="background-image:url({{auth()->user()->image}})"></div>--}}
                 <i class="symbol-badge bg-success"></i>
             </div>
+
+
+
             <div class="d-flex flex-column">
                 <a href="#"
                    class="font-weight-bold font-size-h5 text-dark-75 text-hover-primary">{{auth()->user()->name}}</a>
@@ -584,6 +652,7 @@
                     <a href="{{route('logout')}}"
                        class="btn btn-sm btn-light-primary font-weight-bolder py-2 px-5">Sign Out</a>
                 </div>
+
             </div>
         </div>
         <!--end::Header-->
