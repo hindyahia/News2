@@ -9,66 +9,72 @@ _________________________________________________________ -->
         <div class="col-md-6" data-animate="fadeInDown">
             <ul class="menu">
                 @if(Auth::check())
-                    <li><a href="{{route('logout')}}"  onclick="event.preventDefault();
+                    <li><a href="{{route('logout')}}" onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();">{{ trans('cp.logout') }}</a>
                     </li>
                     <li>
-                            <a href="{{ route('admin.home') }}">{{ trans('cp.dashboard') }}</a>
+                        <a href="{{ route('admin.home') }}">{{ trans('cp.dashboard') }}</a>
 
                     </li>
                 @else
-                <li><a href="{{route('login')}}"  >{{trans('cp.login')}}</a>
+                    <li><a href="{{route('login')}}">{{trans('cp.login')}}</a>
                     </li>
                     <li><a href="{{route('register')}}">{{trans('cp.register')}}</a>
                     </li>
                 @endif
-{{--                <li><a href="{{url('/bloger/contact')}}">{{trans('admin.contact')}}</a>--}}
-{{--                </li>--}}
+                @if(app()->getLocale() == 'ar')
+                        <li><a href="{{ LaravelLocalization::getLocalizedURL('en') }}">English</a>
+                        </li>
+                @else
+                        <li><a href="{{ LaravelLocalization::getLocalizedURL('ar') }}">عربي</a>
+                        </li>
+                @endif
+
 
             </ul>
         </div>
     </div>
 
     <form id="logout-form" action="{{ route('logout') }}" method="POST"
-                 style="display: none;">
+          style="display: none;">
         {{ csrf_field() }}
     </form>
- {{--   <div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="Login" aria-hidden="true">
-        <div class="modal-dialog modal-sm">
+    {{--   <div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="Login" aria-hidden="true">
+           <div class="modal-dialog modal-sm">
 
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                    <h4 class="modal-title" id="Login">{{trans('admin.Customer_login')}}</h4>
-                </div>
-                <div class="modal-body">
---}}{{--                    {!! Form::open(['route'=>'shop.login','method'=>'post']) !!}--}}{{--
-                    <div class="form-group">
-                        <input type="email" class="form-control" name="email"
-                               pattern="[a-zA-Z0-9.!#$%&amp;’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)+"
-                               title="default@example.com"
-                               required=""
-                               id="email-modal" placeholder="email">
-                    </div>
-                    <div class="form-group">
-                        <input type="password" class="form-control" name="password" required="" id="password-modal"
-                               placeholder="password">
-                    </div>
+               <div class="modal-content">
+                   <div class="modal-header">
+                       <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                       <h4 class="modal-title" id="Login">{{trans('admin.Customer_login')}}</h4>
+                   </div>
+                   <div class="modal-body">
+   --}}{{--                    {!! Form::open(['route'=>'shop.login','method'=>'post']) !!}--}}{{--
+                       <div class="form-group">
+                           <input type="email" class="form-control" name="email"
+                                  pattern="[a-zA-Z0-9.!#$%&amp;’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)+"
+                                  title="default@example.com"
+                                  required=""
+                                  id="email-modal" placeholder="email">
+                       </div>
+                       <div class="form-group">
+                           <input type="password" class="form-control" name="password" required="" id="password-modal"
+                                  placeholder="password">
+                       </div>
 
-                    <p class="text-center">
-                        <button class="btn btn-primary"><i class="fa fa-sign-in"></i> {{trans('admin.Log_in')}}</button>
-                    </p>
+                       <p class="text-center">
+                           <button class="btn btn-primary"><i class="fa fa-sign-in"></i> {{trans('admin.Log_in')}}</button>
+                       </p>
 
-                    </form>
+                       </form>
 
-                    <p class="text-center text-muted">{{trans('admin.Not_registered_yet')}}</p>
-                    <p class="text-center text-muted"><a href="{{url('bloger/register')}}"><strong>{{trans('admin.register_now')}}</strong></a>! {{trans('admin.It_is_easy')}}</p>
+                       <p class="text-center text-muted">{{trans('admin.Not_registered_yet')}}</p>
+                       <p class="text-center text-muted"><a href="{{url('bloger/register')}}"><strong>{{trans('admin.register_now')}}</strong></a>! {{trans('admin.It_is_easy')}}</p>
 
-                </div>
-            </div>
-        </div>
-    </div>
---}}
+                   </div>
+               </div>
+           </div>
+       </div>
+   --}}
 </div>
 
 <!-- *** TOP BAR END *** -->
