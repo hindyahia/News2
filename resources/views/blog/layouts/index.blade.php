@@ -14,14 +14,13 @@
             @isset($news)
                 <div class="row">
 
-                    @foreach ($news as $items)
-
+{{--                    @foreach ($news as $items)--}}
                         {{--       <h3 class="pb-5" style="    border-bottom: 2px solid #4fbfa8;
                padding-bottom: 22px;">{{$key}}</h3>--}}
                         {{-- <hr>
                          <br>--}}
 
-                        @foreach($items as $one)
+                        @foreach($news as $one)
                             <div class="col-md-6"  >
 
                                 <div class="post" style="height: 200px">
@@ -38,7 +37,7 @@
                             </div>
                         @endforeach
 
-                @endforeach
+               {{-- @endforeach --}}
                 </div>
 
             @endisset

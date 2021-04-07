@@ -18,6 +18,7 @@
             <input class="form-control form-control-solid h-auto py-7 px-6 text-right rounded-lg"
                    type="email" required value="{{old('email')}}" name="email" autocomplete="off"/>
         </div>
+        
         <!--end::Form group-->
         <!--begin::Form group-->
         <div class="form-group text-right">

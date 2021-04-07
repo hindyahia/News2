@@ -11,13 +11,20 @@ class HomeController extends Controller
 {
     public function index()
     {
+ $path =  public_path('NewsCrawlers/getTrends.py');
+
+	$locale = app()->getLocale();
+        $data =     shell_exec("python3.8 $path  -l  $locale");
 
 //       $data['posts'] = Content::where('from_admin',false)->paginate();
+  //    $data =     shell_exec("python3.8 getTrends.py -l ".app()->getLocale()."  >/dev/null &");
+        $news = collect(json_decode($data))["{$locale}Trends"];
+        $data1['news'] = $news ; //$this->getNews();
+	//dd($news[0]->title);
 
-        $data['news'] = $this->getNews();
 //        dd($data);
 //        dd($data);
-       return view('blog.layouts.index')->with($data);
+       return view('blog.layouts.index')->with($data1);
     }
 
     public function single_post($id)

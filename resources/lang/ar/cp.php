@@ -4,6 +4,7 @@ return [
     'projects_management' =>'إدارة المشاريع',
     'promises_management' =>'إدارة الوعدات ',
     'attachments' =>'المرفقات',
+    'age'=>'age admin',
     'save'=>'حفظ',
     'currencies'=>'العملات',
     'new_line' => 'سطر جديد',
