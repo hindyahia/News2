@@ -1,0 +1,604 @@
+{
+   "alajazera": [
+      {
+         "category": "News",
+         "link": "https://www.aljazeera.com/news/2020/10/7/russia-successfully-tests-new-hypersonic-missile",
+         "published_date": "7 Oct 2020",
+         "title": "Russia successfully tests new hypersonic Tsirkon missile"
+      },
+      {
+         "category": "News",
+         "link": "https://www.aljazeera.com/podcasts/2020/12/9/20-in-2020-from-new-york-to-islamabad",
+         "published_date": "9 Dec 2020",
+         "title": "20 in 2020: From New York to Islamabad"
+      },
+      {
+         "category": "News|Coronavirus pandemic",
+         "link": "https://www.aljazeera.com/news/2020/12/31/timeline-how-the-new-coronavirus-spread",
+         "published_date": "31 Dec 2020",
+         "title": "Timeline: How the new coronavirus spread"
+      },
+      {
+         "category": "News|US Elections 2020",
+         "link": "https://www.aljazeera.com/news/2020/8/25/new-us-rules-make-it-harder-for-asylum-seekers-to-work",
+         "published_date": "25 Aug 2020",
+         "title": "New US rules make it harder for asylum seekers to work"
+      },
+      {
+         "category": "News|Religion",
+         "link": "https://www.aljazeera.com/news/2020/5/11/when-does-ramadan-begin-in-2020",
+         "published_date": "11 May 2020",
+         "title": "When does Ramadan begin in 2020?"
+      },
+      {
+         "category": "News|Health",
+         "link": "https://www.aljazeera.com/news/2020/4/10/new-ebola-case-logged-in-drc-days-before-outbreaks-expected-end",
+         "published_date": "10 Apr 2020",
+         "title": "New Ebola case logged in DRC, days before outbreak\u2019s expected end"
+      },
+      {
+         "category": "Economy|Crypto",
+         "link": "https://www.aljazeera.com/economy/2020/10/21/bbbitcoin-soars-to-new-2020-high-on-paypal-shift-to-crypto",
+         "published_date": "21 Oct 2020",
+         "title": "Bitcoin soars to new 2020 high on PayPal shift to crypto"
+      },
+      {
+         "category": "News|Agriculture",
+         "link": "https://www.aljazeera.com/news/2020/9/23/why-are-indian-farmers-protesting-against-new-farm-bills",
+         "published_date": "23 Sep 2020",
+         "title": "Why Indian farmers are protesting against new farm bills"
+      },
+      {
+         "category": "News",
+         "link": "https://www.aljazeera.com/news/2020/10/7/kuwaits-emir-names-security-czar-sheikh-meshal-as-crown-prince",
+         "published_date": "7 Oct 2020",
+         "title": "Kuwait\u2019s new emir names Sheikh Meshaal as new crown prince"
+      },
+      {
+         "category": "Economy|Workers' Rights",
+         "link": "https://www.aljazeera.com/economy/2020/10/6/indonesian-workers-stage-protests-against-new-labour-laws",
+         "published_date": "6 Oct 2020",
+         "title": "Indonesian workers stage protests against new labour laws"
+      }
+   ],
+   "alarabiya": [
+      {
+         "category": [
+            "coronavirus",
+            "india"
+         ],
+         "link": "https://english.alarabiya.net/coronavirus/2021/04/08/New-Zealand-suspends-entry-for-travelers-from-India-due-to-high-COVID-19-cases",
+         "published_date": "Published: 08 April ,2021: 07:48 AM GST",
+         "title": "New Zealand suspends entry for travelers from India due to high COVID-19 cases"
+      },
+      {
+         "category": [
+            "Russia"
+         ],
+         "link": "https://english.alarabiya.net/News/world/2021/04/08/Lavrov-says-dumb-US-policy-towards-Russia-will-fail",
+         "published_date": "Published: 08 April ,2021: 12:05 PM GST",
+         "title": "Lavrov says \u2018dumb\u2019 US policy towards Russia will fail"
+      },
+      {
+         "category": [
+            "coronavirus"
+         ],
+         "link": "https://english.alarabiya.net/coronavirus/2021/04/08/Saudi-Arabia-records-over-900-new-cases-for-first-time-in-months",
+         "published_date": "Published: 08 April ,2021: 04:32 PM GST",
+         "title": "Saudi Arabia records over 900 new cases for first time in months"
+      },
+      {
+         "category": [
+            "India"
+         ],
+         "link": "https://english.alarabiya.net/coronavirus/2021/04/08/India-reports-record-number-of-new-cases-as-infections-continue-to-rapidly-surge",
+         "published_date": "Published: 08 April ,2021: 09:39 AM GST",
+         "title": "India reports record number of new cases as infections continue to rapidly surge"
+      },
+      {
+         "category": [
+            "Tel Aviv",
+            "Wizz Air"
+         ],
+         "link": "https://english.alarabiya.net/News/gulf/2021/04/07/Wizz-Air-announces-first-direct-Abu-Dhabi-to-Tel-Aviv-flights-starting-at-27-AED99-",
+         "published_date": "Published: 07 April ,2021: 02:07 PM GST",
+         "title": "Wizz Air announces first direct Abu Dhabi to Tel Aviv flights starting at $27 (AED99)"
+      },
+      {
+         "category": [],
+         "link": "https://english.alarabiya.net/business/energy/2021/04/08/Bahrain-due-to-start-drilling-wells-in-new-shale-oilfield-at-end-2022-Oil-Minister",
+         "published_date": "Published: 08 April ,2021: 04:31 PM GST",
+         "title": "Bahrain due to start drilling wells in new shale oilfield at end 2022: Oil Minister"
+      },
+      {
+         "category": [
+            "Coronavirus",
+            "India"
+         ],
+         "link": "https://english.alarabiya.net/coronavirus/2021/04/08/Prime-Minister-Modi-gets-second-COVID-19-vaccine-dose-as-India-hits-record-new-cases",
+         "published_date": "Published: 08 April ,2021: 04:53 PM GST",
+         "title": "Prime Minister Modi gets second COVID-19 vaccine dose as India hits record new cases"
+      },
+      {
+         "category": [
+            "Brazil",
+            "Bolsonaro"
+         ],
+         "link": "https://english.alarabiya.net/coronavirus/2021/04/07/Bolsonaro-asks-Brazil-military-about-troops-to-quell-possible-unrest",
+         "published_date": "Published: 07 April ,2021: 11:47 PM GST",
+         "title": "Bolsonaro asks Brazil military about troops to quell possible unrest"
+      },
+      {
+         "category": [
+            "Libya"
+         ],
+         "link": "https://english.alarabiya.net/News/gulf/2021/04/08/UAE-s-Mohammed-bin-Zayed-discusses-developing-ties-with-new-Libya-PM",
+         "published_date": "Published: 08 April ,2021: 02:39 AM GST",
+         "title": "UAE\u2019s Mohammed bin Zayed discusses developing ties with new Libya PM"
+      },
+      {
+         "category": [
+            "Switzerland"
+         ],
+         "link": "https://english.alarabiya.net/features/2021/04/07/Geneva-international-watch-expo-goes-online-before-shifting-to-Shanghai",
+         "published_date": "Published: 07 April ,2021: 10:03 PM GST",
+         "title": "Geneva international watch expo goes online before shifting to Shanghai"
+      },
+      {
+         "category": [
+            "India"
+         ],
+         "link": "https://english.alarabiya.net/coronavirus/2021/04/07/India-imposes-new-curbs-as-COVID-19-cases-hit-record",
+         "published_date": "Published: 07 April ,2021: 12:20 PM GST",
+         "title": "India imposes new curbs as COVID-19 cases hit record"
+      },
+      {
+         "category": [
+            "Heathrow",
+            "Air travel"
+         ],
+         "link": "https://english.alarabiya.net/News/world/2021/04/07/International-airline-group-leader-blasts-monopoly-fee-hikes-citing-UK-s-Heathrow",
+         "published_date": "Published: 07 April ,2021: 09:24 PM GST",
+         "title": "International airline group leader blasts \u2018monopoly\u2019 fee hikes, citing UK\u2019s Heathrow"
+      },
+      {
+         "category": [
+            "ipsos",
+            "saudi"
+         ],
+         "link": "https://english.alarabiya.net/News/gulf/2021/04/07/Samsung-WhatsApp-Google-top-ten-most-influential-brands-in-Saudi-Arabia-Survey",
+         "published_date": "Published: 07 April ,2021: 09:25 AM GST",
+         "title": "Samsung, WhatsApp, Google top ten most influential brands in Saudi Arabia: Survey"
+      },
+      {
+         "category": [
+            "UAE"
+         ],
+         "link": "https://english.alarabiya.net/coronavirus/2021/04/07/UAE-records-1-883-new-COVID-19-cases-four-deaths",
+         "published_date": "Published: 07 April ,2021: 01:50 PM GST",
+         "title": "UAE records 1,883 new COVID-19 cases, four deaths"
+      },
+      {
+         "category": [
+            "Czech Republic",
+            "Health",
+            "Europe"
+         ],
+         "link": "https://english.alarabiya.net/coronavirus/2021/04/07/Czech-PM-to-appoint-new-health-minister-fourth-since-beginning-of-COVID-19-outbreak",
+         "published_date": "Published: 07 April ,2021: 01:45 PM GST",
+         "title": "Czech PM to appoint new health minister, fourth since beginning of COVID-19 outbreak"
+      },
+      {
+         "category": [
+            "ipsos",
+            "saudi"
+         ],
+         "link": "https://english.alarabiya.net/News/world/2021/04/07/Police-identify-six-dead-Bangladesh-family-members-in-Texas-murder-suicide-plot",
+         "published_date": "Published: 07 April ,2021: 08:16 AM GST",
+         "title": "Police identify six dead Bangladesh family members in Texas murder-suicide plot"
+      },
+      {
+         "category": [
+            "UN"
+         ],
+         "link": "https://english.alarabiya.net/News/africa/2021/04/07/UN-to-reduce-peacekeepers-in-South-Sudan-due-to-drop-in-violence",
+         "published_date": "Published: 07 April ,2021: 12:01 AM GST",
+         "title": "UN to reduce peacekeepers in South Sudan due to drop in violence"
+      },
+      {
+         "category": [
+            "UAE"
+         ],
+         "link": "https://english.alarabiya.net/News/middle-east/2021/04/07/Iran-s-Rouhani-says-Vienna-nuclear-talks-open-new-chapter-",
+         "published_date": "Published: 07 April ,2021: 04:53 PM GST",
+         "title": "Iran\u2019s Rouhani says Vienna nuclear talks open \u2018new chapter\u2019"
+      },
+      {
+         "category": [
+            "Syria",
+            "US",
+            "Trump"
+         ],
+         "link": "https://english.alarabiya.net/News/middle-east/2021/04/08/New-details-emerge-over-secret-US-Syria-talks-aimed-at-freeing-Austin-Tice",
+         "published_date": "Published: 08 April ,2021: 11:34 AM GST",
+         "title": "New details emerge over secret US-Syria talks aimed at freeing Austin Tice"
+      },
+      {
+         "category": [
+            "Argentina",
+            "Coronavirus"
+         ],
+         "link": "https://english.alarabiya.net/coronavirus/2021/04/07/Argentina-shifts-focus-to-economy-as-pandemic-second-wave-hits",
+         "published_date": "Published: 07 April ,2021: 03:10 PM GST",
+         "title": "Argentina shifts focus to economy as pandemic second wave hits"
+      },
+      {
+         "category": [],
+         "link": "https://english.alarabiya.net/business/economy/2021/04/07/fojfsfdskfds",
+         "published_date": "Published: 07 April ,2021: 08:34 PM GST",
+         "title": "Saudi Arabia\u2019s malls, supermarkets, restaurants told to increase hiring of nationals"
+      },
+      {
+         "category": [
+            "turkey",
+            "syria"
+         ],
+         "link": "https://english.alarabiya.net/News/middle-east/2021/04/08/Syrians-tell-of-a-new-enemy-after-ISIS-Turkish-backed-militia",
+         "published_date": "Published: 08 April ,2021: 09:19 AM GST",
+         "title": "Syrians tell of a new enemy after ISIS: Turkish-backed militia"
+      },
+      {
+         "category": [
+            "covid-19"
+         ],
+         "link": "https://english.alarabiya.net/coronavirus/2021/04/07/Video-Hospital-staff-applaud-104-year-old-Colombian-who-beat-COVID-for-second-time",
+         "published_date": "Published: 07 April ,2021: 09:49 AM GST",
+         "title": "Video: Hospital staff applaud 104-year-old Colombian who beat COVID for second time"
+      },
+      {
+         "category": [
+            "Palestine"
+         ],
+         "link": "https://english.alarabiya.net/News/middle-east/2021/04/08/UNRWA-praises-new-US-aid-for-Palestinians-at-critical-moment-",
+         "published_date": "Published: 08 April ,2021: 12:00 PM GST",
+         "title": "UNRWA praises new US aid for Palestinians at \u2018critical moment\u2019"
+      },
+      {
+         "category": [
+            "Bruno Le Maire"
+         ],
+         "link": "https://english.alarabiya.net/business/economy/2021/04/06/Capital-boost-doubling-state-s-stake-brings-Air-France-under-government-s-wing",
+         "published_date": "Published: 06 April ,2021: 10:25 PM GST",
+         "title": "Capital boost doubling state\u2019s stake brings Air France under government\u2019s wing"
+      },
+      {
+         "category": [
+            "Iraq"
+         ],
+         "link": "https://english.alarabiya.net/coronavirus/2021/04/07/Iraq-reports-8-331-new-COVID-19-cases-in-highest-daily-increase",
+         "published_date": "Published: 07 April ,2021: 06:37 PM GST",
+         "title": "Iraq reports 8,331 new COVID-19 cases in highest daily increase"
+      },
+      {
+         "category": [
+            "Libya"
+         ],
+         "link": "https://english.alarabiya.net/News/north-africa/2021/04/06/Greece-s-PM-in-Tripoli-restores-diplomatic-relations-with-Libya",
+         "published_date": "Published: 06 April ,2021: 10:18 PM GST",
+         "title": "Greece\u2019s PM in Tripoli, restores diplomatic relations with Libya"
+      },
+      {
+         "category": [
+            "UAE Central bank",
+            "Khalid al-Tameemi"
+         ],
+         "link": "https://english.alarabiya.net/business/banking-and-finance/2021/04/07/UAE-s-President-Sheikh-Khalifa-appoints-new-central-bank-governor-",
+         "published_date": "Published: 07 April ,2021: 02:18 PM GST",
+         "title": "UAE\u2019s President Sheikh Khalifa appoints new central bank governor"
+      },
+      {
+         "category": [
+            "Moderna",
+            "Vaccine"
+         ],
+         "link": "https://english.alarabiya.net/coronavirus/2021/04/06/Moderna-COVID-19-vaccine-lasts-at-least-six-months-new-research-suggests",
+         "published_date": "Published: 06 April ,2021: 10:55 PM GST",
+         "title": "Moderna COVID-19 vaccine lasts at least six months, new research suggests"
+      },
+      {
+         "category": [
+            "Coronavirus",
+            "France"
+         ],
+         "link": "https://english.alarabiya.net/coronavirus/2021/04/06/France-s-hospital-system-is-under-heavy-pressure-from-the-COVID-19-pandemic",
+         "published_date": "Published: 06 April ,2021: 11:46 PM GST",
+         "title": "France\u2019s hospital system is under heavy pressure from the COVID-19 pandemic"
+      }
+   ],
+   "cnn": [
+      {
+         "link": "https://www.cnn.com/videos/us/2020/01/01/new-laws-for-2020-newsroom-valencia-pkg-vpx.cnn",
+         "published_date": "2020-01-01T16:36:18Z",
+         "tags": "us",
+         "title": "Numerous new laws take effect nationwide for 2020"
+      },
+      {
+         "link": "https://www.cnn.com/politics/live-news/new-hampshire-primary-2020-live-updates/index.html",
+         "published_date": "2020-02-11T17:59:03Z",
+         "tags": "politics",
+         "title": "The 2020 New Hampshire primary"
+      },
+      {
+         "link": "https://www.cnn.com/2016/12/21/politics/democrats-president-2020-poll/index.html",
+         "published_date": "2016-12-21T21:23:41Z",
+         "tags": "politics",
+         "title": "Poll: Democrats want someone new for 2020"
+      },
+      {
+         "link": "https://www.cnn.com/2017/04/30/politics/joe-biden-new-hampshire-2020/index.html",
+         "published_date": "2017-04-30T10:54:02Z",
+         "tags": "politics",
+         "title": "Biden returns to New Hampshire as 2020 rumors swirl"
+      },
+      {
+         "link": "https://www.cnn.com/videos/politics/2019/05/16/bill-de-blasio-enters-2020-race-announcement-newday-vpx.cnn",
+         "published_date": "2019-05-16T11:07:49Z",
+         "tags": "politics",
+         "title": "New York City Mayor Bill de Blasio enters 2020 race"
+      },
+      {
+         "link": "https://www.cnn.com/2018/12/18/asia/new-zealand-marijuana-legalization-intl/index.html",
+         "published_date": "2018-12-19T03:06:27Z",
+         "tags": "asia",
+         "title": "New Zealand to vote on legalizing marijuana in 2020"
+      },
+      {
+         "link": "https://www.cnn.com/2018/09/13/politics/2020-democrats-ranking/index.html",
+         "published_date": "2018-09-13T05:00:56Z",
+         "tags": "politics",
+         "title": "There's a new No. 1 among 2020 Democrats"
+      },
+      {
+         "link": "https://www.cnn.com/2020/07/12/politics/texas-swing-state-2020-election-polls/index.html",
+         "published_date": "2020-07-12T18:30:56Z",
+         "tags": "politics",
+         "title": "Texas is a swing state in 2020, new polls reveal"
+      },
+      {
+         "link": "https://www.cnn.com/2018/11/28/politics/beto-orourke-pac-2020/index.html",
+         "published_date": "2018-11-29T00:31:35Z",
+         "tags": "politics",
+         "title": "New PAC hopes to draft Beto O'Rourke for 2020 run"
+      },
+      {
+         "link": "https://www.cnn.com/politics/live-news/2020-democratic-candidate-poll/index.html",
+         "published_date": "2019-07-16T16:02:51Z",
+         "tags": "politics",
+         "title": "CNN releases 2020 New Hampshire poll"
+      },
+      {
+         "link": "https://www.cnn.com/2018/03/18/politics/ip-forecast-new-hampshire-2020/index.html",
+         "published_date": "2018-03-18T19:08:50Z",
+         "tags": "politics",
+         "title": "Why Trump may face 2020 primary challenges in New Hampshire"
+      },
+      {
+         "link": "https://www.cnn.com/2020/01/20/politics/new-york-times-klobuchar-warren-2020/index.html",
+         "published_date": "2020-01-20T15:46:48Z",
+         "tags": "politics",
+         "title": "The New York Times' utterly confusing 2020 endorsement"
+      },
+      {
+         "link": "https://www.cnn.com/videos/politics/2019/03/19/2020-poll-big-gains-kamala-harris-mattingly-lead-vpx.cnn",
+         "published_date": "2019-03-19T20:59:56Z",
+         "tags": "politics",
+         "title": "New 2020 poll shows huge gains for Sen. Kamala Harris"
+      },
+      {
+         "link": "https://www.cnn.com/2019/01/24/politics/2020-candidates-iowa-new-hampshire/index.html",
+         "published_date": "2019-01-24T11:02:23Z",
+         "tags": "politics",
+         "title": "Why 2020 candidates cannot ignore Iowa or New Hampshire"
+      },
+      {
+         "link": "https://www.cnn.com/2019/01/07/politics/kamala-harris-new-book-tour/index.html",
+         "published_date": "2019-01-07T16:01:57Z",
+         "tags": "politics",
+         "title": "Kamala Harris to preview 2020 message in new book"
+      },
+      {
+         "link": "https://www.cnn.com/2018/10/15/politics/2020-democrats-rankings/index.html",
+         "published_date": "2018-10-15T05:00:41Z",
+         "tags": "politics",
+         "title": "Why Elizabeth Warren is #1 in our new 2020 rankings"
+      },
+      {
+         "link": "https://www.cnn.com/2016/07/15/health/mars-2020-rover-announcement/index.html",
+         "published_date": "2016-07-15T21:29:16Z",
+         "tags": "health",
+         "title": "New Mars 2020 rover will be able to 'hear' the Red Planet"
+      },
+      {
+         "link": "https://www.cnn.com/2018/03/19/politics/trump-iowa-new-hampshire-2020/index.html",
+         "published_date": "2018-03-19T16:54:47Z",
+         "tags": "politics",
+         "title": "Trump family in New Hampshire, Iowa as 2020 primary challengers lurk"
+      }
+   ],
+   "foxnews": [
+      {
+         "category": [
+            "rnc",
+            "elections",
+            "2020-presidential-election"
+         ],
+         "link": "https://www.foxnews.com/politics/gop-no-new-2020-platform-trump-agenda",
+         "published_date": "2020-08-24T07:38:53-04:00",
+         "title": "GOP announces no new 2020 platform, party to 'enthusiastically ..."
+      },
+      {
+         "category": null,
+         "link": "https://www.foxnews.com/elections/2020/general-results",
+         "published_date": null,
+         "title": "the latest 2020 election results from fox news"
+      },
+      {
+         "category": [
+            "2020-house-races",
+            "alexandria-ocasio-cortez"
+         ],
+         "link": "https://www.foxnews.com/politics/ocasio-cortez-gets-new-2020-challenger",
+         "published_date": "2019-07-16T09:58:26-04:00",
+         "title": "Ocasio-Cortez gets new 2020 challenger: a Republican immigrant ..."
+      },
+      {
+         "category": [
+            "olympics",
+            "coronavirus"
+         ],
+         "link": "https://www.foxnews.com/sports/tokyo-olympics-new-date-coronavirus-pandemic",
+         "published_date": "2020-03-30T08:23:19-04:00",
+         "title": "Tokyo Olympics gets new date after 2020 Games were postponed ..."
+      },
+      {
+         "category": [
+            "newyorkcity",
+            "policelaw",
+            "crime",
+            "homicide"
+         ],
+         "link": "https://www.foxnews.com/us/new-york-city-shootings-homicides-2020-crime-data",
+         "published_date": "2021-01-07T14:10:43-05:00",
+         "title": "New York City shootings, homicides soared in 2020, crime data ..."
+      },
+      {
+         "category": [
+            "2020-presidential-election",
+            "crime",
+            "elections",
+            "joe-biden",
+            "newhampshire",
+            "northeast",
+            "trump-2020-campaign"
+         ],
+         "link": "https://www.foxnews.com/us/new-hampshire-trump-2020-threatening-letters-arson",
+         "published_date": "2020-10-20T13:43:22-04:00",
+         "title": "New Hampshire homeowners receive threatening letters over Trump ..."
+      },
+      {
+         "category": [
+            "holiday",
+            "lifestyle",
+            "tennessee",
+            "nashville"
+         ],
+         "link": "https://www.foxnews.com/travel/nashville-new-years-eve-2020-display",
+         "published_date": "2020-12-31T17:48:37-05:00",
+         "title": "Nashville cuts New Year's Eve exploding '2020' display | Fox News"
+      },
+      {
+         "category": [
+            "college-football-bowl-season",
+            "ncaafb",
+            "ncaa",
+            "georgia-southern-eagles",
+            "louisiana-tech-bulldogs"
+         ],
+         "link": "https://www.foxnews.com/sports/new-orleans-bowl-2020-louisiana-tech-georgia-southern-preview",
+         "published_date": "2020-12-18T08:08:19-05:00",
+         "title": "New Orleans Bowl 2020: Louisiana Tech vs. Georgia Southern ..."
+      },
+      {
+         "category": [
+            "2020-presidential-election",
+            "donald-trump",
+            "joe-biden",
+            "bernie-sanders",
+            "electionpoll",
+            "politics"
+         ],
+         "link": "https://www.foxnews.com/politics/new-2020-polls-biden-topping-trump-in-michigan-edging-the-president-in-texas",
+         "published_date": "2019-06-05T15:43:28-04:00",
+         "title": "New 2020 polls: Biden tops Trump in Michigan, edges ahead in ..."
+      }
+   ],
+   "rt": [
+      {
+         "category": null,
+         "link": "https://www.rt.com/shows/dennis-miller-plus-one/520517-jo-koy-on-why-writing/",
+         "published_date": "8 Apr, 2021 19:18  ",
+         "title": "Jo Koy on why writing his memoir was so healing"
+      },
+      {
+         "category": [
+            "North America news"
+         ],
+         "link": "https://www.rt.com/sport/520492-nfl-phillip-adams-murder-suicide/",
+         "published_date": "8 Apr, 2021 15:20  ",
+         "title": "Ex-NFL star Phillip Adams kills five then himself in South Carolina shooting spree \u2013 reports"
+      },
+      {
+         "category": [
+            "US migration policy news",
+            "US news"
+         ],
+         "link": "https://www.rt.com/usa/520508-illegal-border-crossing-record-minors/",
+         "published_date": "8 Apr, 2021 19:32  ",
+         "title": "Almost 19,000 unaccompanied minors entered the US from Mexico in March alone \u2013 largest monthly number ever"
+      },
+      {
+         "category": [
+            "North America news"
+         ],
+         "link": "https://www.rt.com/sport/520515-eagle-fighting-championship-leg-break-uzair-abdurakov/",
+         "published_date": "8 Apr, 2021 19:38  ",
+         "title": "\u2018I joked I wasn\u2019t in pain. At that moment, he broke my leg\u2019: Russian MMA star details injury as he fights on with fractured limb"
+      },
+      {
+         "category": [
+            "US Republican Party news",
+            "US news"
+         ],
+         "link": "https://www.rt.com/usa/520507-democrat-republican-party-poll/",
+         "published_date": "8 Apr, 2021 17:30  ",
+         "title": "Democrats soar ahead of Republicans in party identification poll, but they have little to celebrate, with independents on the rise"
+      },
+      {
+         "category": [],
+         "link": "https://www.rt.com/op-ed/520501-hbo-exterminate-all-brutes/",
+         "published_date": "8 Apr, 2021 17:08  ",
+         "title": "White supremacy is worth investigating, but HBO\u2019s pretentious & infantile \u2018Exterminate All the Brutes\u2019 has nothing original to say"
+      },
+      {
+         "category": [
+            "US Republican Party news",
+            "US news"
+         ],
+         "link": "https://www.rt.com/sport/520499-mbappe-psg-contract-madrid/",
+         "published_date": "8 Apr, 2021 16:55  ",
+         "title": "Mbappe puts Real Madrid on red alert by REFUSING to extend PSG contract \u2013 reports"
+      },
+      {
+         "category": [],
+         "link": "https://www.rt.com/news/520491-research-blood-test-depression/",
+         "published_date": "8 Apr, 2021 15:40  ",
+         "title": "Mood disorder diagnosis: Scientists develop blood test to identify mental health issues including depression"
+      },
+      {
+         "category": [
+            "NFL news",
+            "North America news",
+            "US news"
+         ],
+         "link": "https://www.rt.com/sport/520502-nfl-phillip-adams-murder-suicide-reaction/",
+         "published_date": "8 Apr, 2021 18:09  ",
+         "title": "Father of ex-NFL star Adams says \u2018football messed him up\u2019 as debate rages over CTE, gun control & race in wake of shooting spree"
+      },
+      {
+         "category": [],
+         "link": "https://www.rt.com/op-ed/520504-ontario-lockdown-north-america/",
+         "published_date": "8 Apr, 2021 17:39  ",
+         "title": "Ontario has had the longest lockdown in North America \u2013 which has been so successful it\u2019s just gone into another one"
+      }
+   ]
+}

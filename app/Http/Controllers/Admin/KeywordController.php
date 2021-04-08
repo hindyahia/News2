@@ -51,10 +51,34 @@ class KeywordController extends Controller
      * @param \Illuminate\Http\Request $request
      * @return \Illuminate\Http\Response
      */
+
+
+function getData($path)
+    {
+
+        $myfile = fopen("$path", "r");
+
+        $data = fread($myfile, filesize("$path"));
+        fclose($myfile);
+
+        return $data;
+}
+
     public function store(KeywordRequest $request)
     {
         Keyword::create($request->validated() + ['user_id' => auth()->id()]);
+ $path =  public_path('NewsCrawlers/Run.py');
 
+	$title = $request->title;
+        $locale = app()->getLocale();
+        $path2 =     shell_exec("python3.8 $path -q '$title' -l  $locale");
+	$data  =  $this->getData($path2);
+
+//dd(collect($data)[0],json_decode($data));
+  dd($data ,json_decode(str_replace('"','\'',collect($data)[0]),true),collect($data)[0]);
+//       $data['posts'] = Content::where('from_admin',false)->paginate();
+  //    $data =     shell_exec("python3.8 getTrends.py -l ".app()->getLocale()."  >/dev/null &");
+        $news = collect(json_decode($data))["{$locale}Trends"];
         return redirect()->back()->with('status', __('cp.create'));
     }
 
