@@ -67,6 +67,16 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="form-group">
+                                        <label>{{__('cp.age')}} <span class="text-danger">*</span></label>
+                                        <input type="text" class="form-control form-control-solid"
+                                               name="age"
+                                               value="{{ old('age', $item->mobile)}}" required/>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
                                         <label>{{__('cp.allow_add_content')}} <span class="text-danger">*</span></label>
                                         <div class="col-3">
                                             <span class="switch switch-outline switch-icon switch-primary">
