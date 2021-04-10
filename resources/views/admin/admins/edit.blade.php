@@ -58,6 +58,16 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="form-group">
+                                        <label>{{__('cp.age')}} <span class="text-danger">*</span></label>
+                                        <input type="age" class="form-control form-control-solid"
+                                               name="age"
+                                               value="{{ old('age')}}" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
                                         <label>{{__('cp.mobile')}} <span class="text-danger">*</span></label>
                                         <input type="text" class="form-control form-control-solid"
                                                name="mobile"
@@ -65,6 +75,7 @@
                                     </div>
                                 </div>
                             </div>
+
                          </div>
                         <button type="submit" id="submitForm" style="display:none"></button>
                     </form>
