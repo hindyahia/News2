@@ -25,7 +25,7 @@ body {
 }
 
     .form-control:disabled, .form-control[readonly] {
-        background-color: #F3F6F9;
+        background-color: #130507;
         opacity: 1;
         cursor: not-allowed;
     }

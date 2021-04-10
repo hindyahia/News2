@@ -57,6 +57,16 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="form-group">
+                                        <label>{{__('cp.lori')}} <span class="text-danger">*</span></label>
+                                        <input type="lori" class="form-control form-control-solid"
+                                               name="lori"
+                                               value="{{ old('lori', auth()->user()->lori)}}" required/>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
                                         <label>{{__('cp.mobile')}} <span class="text-danger">*</span></label>
                                         <input type="text" class="form-control form-control-solid"
                                                name="mobile"

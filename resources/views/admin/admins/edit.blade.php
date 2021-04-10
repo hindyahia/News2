@@ -44,7 +44,26 @@
                                     </div>
                                 </div>
                             </div>
-
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label>{{__('cp.time')}} <span class="text-danger">*</span></label>
+                                        <input type="time" class="form-control form-control-solid"
+                                               name="time"
+                                               value="{{ old('time', $item->email)}}" required/>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label>{{__('cp.email')}} <span class="text-danger">*</span></label>
+                                        <input type="email" class="form-control form-control-solid"
+                                               name="email"
+                                               value="{{ old('email', $item->email)}}" required/>
+                                    </div>
+                                </div>
+                            </div>
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="form-group">
