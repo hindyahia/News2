@@ -60,7 +60,7 @@ return [
     'users_management' => 'user management',
     'admins_management' => 'admin admin',
     'allow_add_content' => 'Allow to add news',
-    'categories_management' => 'categories management',
+    'categories_management' => 'Types management',
 // 'keywords_management' => 'keyword management',
     'add_user' => 'add user',
     'add_admin' => 'add admin',
