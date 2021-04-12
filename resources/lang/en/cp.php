@@ -69,7 +69,7 @@ return [
     'status' => 'status',
     'allow' => 'allow news to be published',
     "don't_have_account?" => "Do not have an account?",
-    "I_have_account?" => 'Have an account?',
+    "I_have_account?" => "Have an account?",
     "create_an_account" => 'Create a new account',
     "confirmDelete" => 'Do you want to delete the item?',
     "confirm" => 'confirm',
